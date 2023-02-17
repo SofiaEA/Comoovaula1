@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
     // sou o xico e alterei isto
     //PUSH1
-    //push2
 //push3
 
 }
