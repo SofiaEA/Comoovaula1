@@ -8,9 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    // sou o xico e alterei isto
-    //PUSH1
-    //push2
-//push3
-
+    //teste2
+    //teste3
+    //teste4
 }
